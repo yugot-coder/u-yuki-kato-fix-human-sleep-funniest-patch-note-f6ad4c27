@@ -1,0 +1,7 @@
+Write one patch-note line announcing that human sleep is fixed. It must read
+like a real changelog entry (start with "Fixed:"), be genuinely funny on a
+single read, stay under 160 characters on one line, and surprise with a
+specific, unexpected fix — a software metaphor applied to the body (updates,
+installs, buffering, saving progress) rather than a flat claim that sleep
+now works. Avoid the 3 a.m. crash and REM-argument angles already used by
+other entries.
